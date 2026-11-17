@@ -24,7 +24,7 @@
       "interface": {
         "displayName": "Obsidian",
         "shortDescription": "Work with your local vault",
-        "longDescription": "Search, read, create, and organize notes in a local Obsidian vault. Create and edit Obsidian Markdown with links, properties, and callouts. This plugin also lets you build Bases views, Canvas diagrams, extract web pages to Markdown, render templates, and sync and publish vaults with Obsidian Headless.\n\nThis plugin is currently desktop-only and requires Obsidian to be open and running with the CLI enabled. In the future we will add MCP so you can interact with your vault remotely and in the ChatGPT mobile app.",
+        "longDescription": "Search, read, create, and organize notes in a local Obsidian vault. Create and edit Obsidian Markdown with links, properties, and callouts. This plugin also lets you build Bases views, Canvas diagrams, extract web pages to Markdown, render templates, and sync and publish vaults with Obsidian Headless.\n\nThe CLI skill needs the Obsidian desktop app open with the CLI turned on. The Headless skill syncs and publishes vaults without it. In the future we will add MCP so you can interact with your vault remotely and in the ChatGPT mobile app.",
         "category": "Productivity",
         "developerName": "Obsidian",
         "defaultPrompt": [
